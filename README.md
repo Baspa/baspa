@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey! I'm Bas van Dinther</h1>
 
 <p align="center">
-I'm a fullstack developer building software and open-source packages. I currently work at <a href="https://vormkracht10.nl">Vormkracht10</a> and for my own company <a href="https://baspa.nl">Baspa</a>. Occasionaly I write about my experiences on <a href="https://baspa.de">my blog</a>.
+I'm a fullstack developer building software and open-source packages. I currently work at <a href="https://vormkracht10.nl">Vormkracht10</a> and at my own company <a href="https://baspa.nl">Baspa</a>. Occasionaly I write about my experiences on <a href="https://baspa.de">my blog</a>.
 
 
 </p>
