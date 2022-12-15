@@ -27,7 +27,7 @@ class Bas
     public $education = ['MBO Application Developer', 'Bachelor HBO ICT'];
     public $hobbies = ['Gym', 'Reading', 'Coding', 'Mountainbiking'];
     public $languages = ['PHP', 'Javascript'];
-    public $frameworks = ['Laravel', 'Vue', 'React', 'Tailwind'];
+    public $frameworks = ['Laravel', 'Inertia', 'React', 'Tailwind'];
 }
 ```
  
