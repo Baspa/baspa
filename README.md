@@ -21,13 +21,13 @@ When I'm not coding find me outside in the nature, reading a book or at the gym.
  ```php
 class Bas
 {
-    public $name = 'Bas van Dinther';
-    public $age = 25;
-    public $work = ['Vormkracht10', 'Baspa'];
-    public $education = ['MBO Application Developer', 'Bachelor HBO ICT'];
-    public $hobbies = ['Gym', 'Reading', 'Coding', 'Mountainbiking'];
-    public $languages = ['PHP', 'Javascript'];
-    public $frameworks = ['Laravel', 'Inertia', 'React', 'Tailwind'];
+    public string $name = 'Bas van Dinther';
+    public int $age = 25;
+    public array $work = ['Vormkracht10', 'Baspa'];
+    public array $education = ['MBO Application Developer', 'Bachelor HBO ICT'];
+    public array $hobbies = ['Gym', 'Reading', 'Coding', 'Mountainbiking'];
+    public array $languages = ['PHP', 'Javascript'];
+    public array $frameworks = ['Laravel', 'Inertia', 'React', 'Tailwind'];
 }
 ```
  
