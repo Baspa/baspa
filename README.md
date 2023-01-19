@@ -14,23 +14,7 @@ When I'm not coding find me outside in the nature, reading a book or at the gym.
   [![Linkedin Badge](https://img.shields.io/badge/-baspa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baspa/)](https://www.linkedin.com/in/baspa/)
   ![Twitter Badge](https://img.shields.io/twitter/follow/baspa_dev?style=social)
 </div>
-<br>
-
-### How I'd define myself
-
- ```php
-class Bas
-{
-    public string $name = 'Bas van Dinther';
-    public int $age = 25;
-    public array $work = ['Vormkracht10', 'Baspa'];
-    public array $education = ['MBO Application Developer', 'Bachelor HBO ICT'];
-    public array $hobbies = ['Gym', 'Reading', 'Coding', 'Mountainbiking'];
-    public array $languages = ['PHP', 'Javascript'];
-    public array $frameworks = ['Laravel', 'Inertia', 'React', 'Tailwind'];
-}
-```
- 
+<br> 
 
 ### Quick stats about me
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baspa&count_private=true&theme=moltack)](https://github.com/baspa/github-readme-stats)
