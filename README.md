@@ -2,8 +2,6 @@
 
 I build web apps and open source packages for clients and the developer community. During the day I work at Vormkracht10. We're building smart web apps using Laravel for a variety of clients. We also open source a lot of our work. You can find our open source work on [GitHub](https://github.com/vormkracht10). After work, I like to work on open source packages and build SaaS products, on my own or with partners.
 
-Occasionaly I write about my experiences on [my blog](https://baspa.dev).
-
 ### Open Source Projects
 
 These are some of the open source projects I've built and maintain. I'm always looking for new ideas and projects to work on, so if you have any ideas, feel free to reach out to me on [Twitter](https://twitter.com/baspa_dev).
@@ -37,8 +35,6 @@ You can learn more about Laravel Google Analytics v4 [here](https://github.com/v
 Health checks made in production to ensure you can sleep well at night and be sure everything is still OK.
 
 You can learn more about Laravel OK [here](https://github.com/vormkracht10/laravel-ok).
-
-#### React Uploadcare Transformations
 
 #### Others
 
