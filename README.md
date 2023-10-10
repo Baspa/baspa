@@ -2,6 +2,8 @@
 
 I build web apps and open source packages for clients and the developer community. During the day I work at Vormkracht10. We're building smart web apps using Laravel for a variety of clients. We also open source a lot of our work. You can find our open source work on [GitHub](https://github.com/vormkracht10). After work, I like to work on open source packages and build SaaS products, on my own or with partners.
 
+When I'm not coding you can find me walking in nature, mountainbiking, diving, reading a book or at the gym. Occasionally I write content about developing related subjects on my [blog](https://baspa.dev).  
+
 ### Open Source Projects
 
 These are some of the open source projects I've built and maintain. I'm always looking for new ideas and projects to work on, so if you have any ideas, feel free to reach out to me on [Twitter](https://twitter.com/baspa_dev).
