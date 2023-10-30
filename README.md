@@ -52,3 +52,19 @@ You can learn more about the Laravel OK package [here](https://github.com/vormkr
 Looking for inspiration for training schedules but don't know where to start? I know that feeling! After my journey with a personal trainer, I wanted to create my own workout schedules, but it took me a lot of time. Time I'd rather spend on my workouts! So, I developed WorkoutPlanner, a tool to generate personalized training schedules. With WorkoutPlanner, you can easily input your goals, favorite exercises, and training frequency to receive a tailored program. It takes various factors into account for optimal results.
 
 You can start using Workout Planner [here](https://workoutplanner.so).
+
+#### 🏋️ TrainFit 
+
+In corporation with We Are B.V. I created an all-in-one platform for Personal Trainers. On this platform they can:
+
+- manage their clients;
+- add a variety of measurements (which are shown in graphs);
+- add different types of files such as training- and food schedules;
+- get insights in data;
+- manage agendas and appointments and
+- send messages to their clients.
+
+This platform is currently under active development and we're running a pilot with some Personal Trainers to verify the product. 
+
+You can start using TrainFit [here](https://trainfit.app) (Dutch only).
+
