@@ -44,3 +44,11 @@ You can learn more about the Laravel OK package [here](https://github.com/vormkr
 -   [KvK API](https://github.com/vormkracht10/kvk-api)
 -   [OAuth2 Genesys](https://github.com/vormkracht10/oauth2-genesys)
 -   [React Uploadcare Transformations](https://github.com/Baspa/react-uploadcare-transformations)
+
+### SaaS Projects 
+
+#### 💪 Workout Planner
+
+Looking for inspiration for training schedules but don't know where to start? I know that feeling! After my journey with a personal trainer, I wanted to create my own workout schedules, but it took me a lot of time. Time I'd rather spend on my workouts! So, I developed WorkoutPlanner, a tool to generate personalized training schedules. With WorkoutPlanner, you can easily input your goals, favorite exercises, and training frequency to receive a tailored program. It takes various factors into account for optimal results.
+
+You can start using Workout Planner [here](https://workoutplanner.so).
