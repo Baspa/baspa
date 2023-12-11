@@ -6,7 +6,7 @@ When I'm not coding you can find me walking in nature, mountainbiking, diving, r
 
 ### Open Source Projects
 
-These are some of the open source projects I've built and maintain. I'm always looking for new ideas and projects to work on, so if you have any ideas, feel free to reach out to me on [Twitter](https://twitter.com/baspa_dev).
+These are some of the open source projects I've worked on or maintain. I'm always looking for new ideas and projects to work on, so if you have any ideas, feel free to reach out to me on [Twitter](https://twitter.com/baspa_dev).
 
 #### 💻 Laravel SEO Scanner
 
