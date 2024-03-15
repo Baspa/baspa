@@ -65,6 +65,3 @@ In corporation with We Are B.V. I created an all-in-one platform for Personal Tr
 - send messages to their clients.
 
 This platform is currently under active development and we're running a pilot with some Personal Trainers to verify the product. 
-
-You can start using TrainFit [here](https://trainfit.app) (Dutch only).
-
