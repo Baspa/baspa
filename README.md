@@ -40,6 +40,7 @@ You can learn more about the Laravel OK package [here](https://github.com/vormkr
 
 #### Others
 
+-   [Buienradar PHP API](https://github.com/baspa/buienradar-php-api)
 -   [Laravel Timezones](https://github.com/baspa/laravel-timezones)
 -   [WeFact PHP](https://github.com/vormkracht10/wefact-php)
 -   [KvK API](https://github.com/vormkracht10/kvk-api)
