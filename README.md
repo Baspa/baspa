@@ -42,6 +42,8 @@ You can learn more about the Laravel OK package [here](https://github.com/vormkr
 
 Package to implement two factor authentication in minutes in your Filament apps. Supports authenticator apps, email and SMS. 
 
+You can learn more about the Filament Two Factor Auth package [here](https://github.com/vormkracht10/filament-two-factor-auth).
+
 #### Others
 
 -   [Buienradar PHP API](https://github.com/baspa/buienradar-php-api)
