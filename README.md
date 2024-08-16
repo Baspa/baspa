@@ -38,6 +38,10 @@ Health checks made in production to ensure you can sleep well at night and be su
 
 You can learn more about the Laravel OK package [here](https://github.com/vormkracht10/laravel-ok).
 
+#### 🔐 Filament Two Factor Auth
+
+Package to implement two factor authentication in minutes in your Filament apps. Supports authenticator apps, email and SMS. 
+
 #### Others
 
 -   [Buienradar PHP API](https://github.com/baspa/buienradar-php-api)
