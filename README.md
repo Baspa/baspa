@@ -73,3 +73,13 @@ In corporation with We Are B.V. I created an all-in-one platform for Personal Tr
 - send messages to their clients.
 
 This platform is currently under active development and we're running a pilot with some Personal Trainers to verify the product. 
+
+### Support me
+
+If you find my work valuable or just want to show your appreciation, you can buy me a coffee! ☕️
+
+<a href="https://buymeacoffee.com/baspa" target="_blank">
+<img src="https://github.com/user-attachments/assets/111f0d29-93d5-4b3b-b890-ff04d0239c6b" />
+</a>
+
+
