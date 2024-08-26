@@ -47,6 +47,7 @@ You can learn more about the Filament Two Factor Auth package [here](https://git
 #### Others
 
 -   [Buienradar PHP API](https://github.com/baspa/buienradar-php-api)
+-   [EnergyZero PHP API](https://github.com/baspa/energyzero-php-api)
 -   [Laravel Timezones](https://github.com/baspa/laravel-timezones)
 -   [WeFact PHP](https://github.com/vormkracht10/wefact-php)
 -   [KvK API](https://github.com/vormkracht10/kvk-api)
