@@ -48,32 +48,12 @@ You can learn more about the Filament Two Factor Auth package [here](https://git
 
 -   [Buienradar PHP API](https://github.com/baspa/buienradar-php-api)
 -   [EnergyZero PHP API](https://github.com/baspa/energyzero-php-api)
+-   [Filament Buienradar Widget](https://github.com/baspa/filament-buienradar-widget)
 -   [Laravel Timezones](https://github.com/baspa/laravel-timezones)
 -   [WeFact PHP](https://github.com/vormkracht10/wefact-php)
 -   [KvK API](https://github.com/vormkracht10/kvk-api)
 -   [OAuth2 Genesys](https://github.com/vormkracht10/oauth2-genesys)
 -   [React Uploadcare Transformations](https://github.com/Baspa/react-uploadcare-transformations)
-
-### SaaS Projects 
-
-#### 💪 Workout Planner
-
-Looking for inspiration for training schedules but don't know where to start? I know that feeling! After my journey with a personal trainer, I wanted to create my own workout schedules, but it took me a lot of time. Time I'd rather spend on my workouts! So, I developed WorkoutPlanner, a tool to generate personalized training schedules. With WorkoutPlanner, you can easily input your goals, favorite exercises, and training frequency to receive a tailored program. It takes various factors into account for optimal results.
-
-You can start using Workout Planner [here](https://workoutplanner.so).
-
-#### 🏋️ TrainFit 
-
-In corporation with We Are B.V. I created an all-in-one platform for Personal Trainers. On this platform they can:
-
-- manage their clients;
-- add a variety of measurements (which are shown in graphs);
-- add different types of files such as training- and food schedules;
-- get insights in data;
-- manage agendas and appointments and
-- send messages to their clients.
-
-This platform is currently under active development and we're running a pilot with some Personal Trainers to verify the product. 
 
 ### Support me
 
