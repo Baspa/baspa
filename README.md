@@ -44,6 +44,20 @@ Package to implement two factor authentication in minutes in your Filament apps.
 
 You can learn more about the Filament Two Factor Auth package [here](https://github.com/vormkracht10/filament-two-factor-auth).
 
+#### 📨 Filament Mails
+
+Package to collect everything you might want to track about the mails that has been sent by your Filament app. Common use cases are provided in this package:
+
+- Log all sent emails with only specific attributes
+- View all sent emails in the browser using the viewer
+- Collect feedback about the delivery from email providers using webhooks
+- Relate sent emails to Eloquent models
+- Get automatically notified when email bounces
+- Prune logging of emails periodically
+- Resend logged email to another recipient
+
+You can learn more about the Filament Mails package [here](https://github.com/vormkracht10/filament-mails).
+
 #### Others
 
 -   [Buienradar PHP API](https://github.com/baspa/buienradar-php-api)
