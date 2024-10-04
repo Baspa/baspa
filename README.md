@@ -20,23 +20,11 @@ This Laravel package enables you to dynamically create Open Graph images for you
 
 You can learn more about the Laravel Open Graph Image package by clicking [here](https://github.com/vormkracht10/laravel-open-graph-image).
 
-#### 🔄 PHP Uploadcare Transformations
-
-Generate Uploadcare image processing URLs to transform and process your images. This package provides a fluent interface to build your image processing URLs.
-
-You can learn more about the PHP Uploadcare Transformations package [here](https://github.com/vormkracht10/php-uploadcare-transformations).
-
 #### 📈 Laravel Google Analytics v4
 
 Retrieve a wide variety of analytics data from Google Analytics version 4 using the Google API.
 
 You can learn more about the Laravel Google Analytics v4 package [here](https://github.com/vormkracht10/laravel-google-analytics-v4).
-
-#### ✅ Laravel OK
-
-Health checks made in production to ensure you can sleep well at night and be sure everything is still OK.
-
-You can learn more about the Laravel OK package [here](https://github.com/vormkracht10/laravel-ok).
 
 #### 🔐 Filament Two Factor Auth
 
@@ -51,12 +39,23 @@ Package to collect everything you might want to track about the mails that has b
 - Log all sent emails with only specific attributes
 - View all sent emails in the browser using the viewer
 - Collect feedback about the delivery from email providers using webhooks
-- Relate sent emails to Eloquent models
 - Get automatically notified when email bounces
 - Prune logging of emails periodically
 - Resend logged email to another recipient
 
 You can learn more about the Filament Mails package [here](https://github.com/vormkracht10/filament-mails).
+
+#### 🔄 PHP Uploadcare Transformations
+
+Generate Uploadcare image processing URLs to transform and process your images. This package provides a fluent interface to build your image processing URLs.
+
+You can learn more about the PHP Uploadcare Transformations package [here](https://github.com/vormkracht10/php-uploadcare-transformations).
+
+#### ✅ Laravel OK
+
+Health checks made in production to ensure you can sleep well at night and be sure everything is still OK.
+
+You can learn more about the Laravel OK package [here](https://github.com/vormkracht10/laravel-ok).
 
 #### Others
 
