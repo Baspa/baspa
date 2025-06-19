@@ -24,9 +24,9 @@ Generate dynamic Open Graph images using Blade templates. Design stunning OG ima
 
 Easily retrieve and display analytics from Google Analytics v4 via the official API. Simplifies connecting your Laravel app to GA4.
 
-### [Filament Two Factor Auth](https://github.com/vormkracht10/filament-two-factor-auth)  
-[![Downloads](https://img.shields.io/packagist/dt/vormkracht10/filament-two-factor-auth?style=social)](https://packagist.org/packages/vormkracht10/filament-two-factor-auth)  
-[![Stars](https://img.shields.io/github/stars/vormkracht10/filament-two-factor-auth?style=social)](https://github.com/vormkracht10/filament-two-factor-auth)
+### [Filament Two Factor Auth](https://github.com/vormkracht10/filament-2fa)  
+[![Downloads](https://img.shields.io/packagist/dt/vormkracht10/filament-2fa?style=social)](https://packagist.org/packages/vormkracht10/filament-2fa)  
+[![Stars](https://img.shields.io/github/stars/vormkracht10/filament-2fa?style=social)](https://github.com/vormkracht10/filament-2fa)
 
 Add two-factor authentication to your Filament app in minutes. Supports authenticators, email, and SMS — security made simple.
 
