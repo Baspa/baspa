@@ -6,7 +6,7 @@ Filament packages.
 - 🛠 Laravel certified
 - 🔐 Currently going deeper into web app & API security
 
-### Stack
+### I like to work with 
 `Laravel` · `Livewire` · `Filament` · `React` · `Vue` · `NativePHP` · `TypeScript` · `Tailwind` · `MySQL` . `Inertia`
 
 ### Featured open source
