@@ -1,6 +1,6 @@
 ## Hi, I'm Bas 👋
 
-Full-stack developer from the Netherlands. I currently work at [UX](https://ux.nl), sometimes ship SaaS on the side, and maintain open source Laravel &
+Full-stack developer from the Netherlands. I currently work at [UX](https://ux.nl), sometimes build stuff I think I need on the side, and maintain open source Laravel &
 Filament packages.
 
 - 🛠 Laravel certified
