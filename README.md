@@ -7,7 +7,7 @@ Filament packages.
 - 🔐 Currently going deeper into web app & API security
 
 ### I like to work with 
-`Laravel` · `Livewire` · `Filament` · `React` · `Vue` · `NativePHP` · `TypeScript` · `Tailwind` · `MySQL` . `Inertia`
+`Laravel` · `Livewire` · `Filament` · `React` · `Vue` · `NativePHP` · `TypeScript` · `Tailwind` . `Inertia`
 
 ### Featured open source
 |     | Package | What it does |
