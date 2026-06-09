@@ -17,6 +17,8 @@ Filament packages.
 | 📊 | [Laravel Google Analytics v4](https://github.com/backstagephp/laravel-google-analytics-v4) | GA4 data inside your Laravel app |
 | 🔐 | [Filament 2FA](https://github.com/backstagephp/filament-2fa) | Two-factor auth for Filament |
 | 📬 | [Filament Mails](https://github.com/backstagephp/mails) | Track every mail sent from your app |
+| 🔐 | [Larascan](https://github.com/Baspa/larascan) | Scan Laravel applications for vulnerabilities, insecure configs and risky code |
+| ⏱️ | [Laravel Timezones](https://github.com/Baspa/laravel-timezones) | Convenient solution to include a dropdown menu of timezones |
 
 ### Connect
 [Twitter / X](https://twitter.com/baspa_dev) · [LinkedIn](https://linkedin.com/in/baspa) · [baspa.dev](https://baspa.dev)
