@@ -19,6 +19,7 @@ Filament packages.
 | 📬 | [Filament Mails](https://github.com/backstagephp/mails) | Track every mail sent from your app |
 | 🔐 | [Larascan](https://github.com/Baspa/larascan) | Scan Laravel applications for vulnerabilities, insecure configs and risky code |
 | ⏱️ | [Laravel Timezones](https://github.com/Baspa/laravel-timezones) | Convenient solution to include a dropdown menu of timezones |
+| ⛅️ | [Buienradar PHP API](https://github.com/Baspa/buienradar-php-api) | PHP package to provide a fluent syntax for the Buienradar API |
 
 ### Connect
 [Twitter / X](https://twitter.com/baspa_dev) · [LinkedIn](https://linkedin.com/in/baspa) · [baspa.dev](https://baspa.dev)
