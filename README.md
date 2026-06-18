@@ -12,7 +12,7 @@ Filament packages.
 ### Featured open source
 |     | Package | What it does |
 | --- | --- | --- |
-| 🔍 | [Laravel SEO Scanner](https://github.com/backstagephp/laravel-seo-scanner) | Scan your Laravel app for SEO issues with 24+ checks |
+| 🔍 | [Laravel SEO Scanner](https://github.com/backstagephp/laravel-seo-scanner) | Scan your Laravel app for SEO issues with 40+ checks |
 | 🖼️ | [Laravel OG Image](https://github.com/backstagephp/laravel-og-image) | Generate Open Graph images with Blade |
 | 📊 | [Laravel Google Analytics v4](https://github.com/backstagephp/laravel-google-analytics-v4) | GA4 data inside your Laravel app |
 | 🔐 | [Filament 2FA](https://github.com/backstagephp/filament-2fa) | Two-factor auth for Filament |
