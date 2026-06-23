@@ -3,9 +3,6 @@
 Full-stack developer from the Netherlands. I currently work at [UX](https://ux.nl), sometimes build stuff I think I need on the side, and maintain open source Laravel &
 Filament packages.
 
-- 🛠 Laravel certified
-- 🔐 Currently going deeper into web app & API security
-
 ### I like to work with 
 `Laravel` · `Livewire` · `Filament` · `React` · `Vue` · `NativePHP` · `TypeScript` · `Tailwind` . `Inertia`
 
