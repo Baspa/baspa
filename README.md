@@ -20,7 +20,7 @@ Filament packages.
 | 🔐 | [Larascan](https://github.com/Baspa/larascan) | Scan Laravel applications for vulnerabilities, insecure configs and risky code |
 | ⏱️ | [Laravel Timezones](https://github.com/Baspa/laravel-timezones) | Convenient solution to include a dropdown menu of timezones |
 | ⛅️ | [Buienradar PHP API](https://github.com/Baspa/buienradar-php-api) | PHP package to provide a fluent syntax for the Buienradar API |
-| ⚡️ | [EnergyZero PHP API[(https://github.com/Baspa/energyzero-php-api.git) | PHP client for the dynamic prices from EnergyZero |
+| ⚡️ | [EnergyZero PHP API](https://github.com/Baspa/energyzero-php-api.git) | PHP client for the dynamic prices from EnergyZero |
 
 ### Connect
 [Twitter / X](https://twitter.com/baspa_dev) · [LinkedIn](https://linkedin.com/in/baspa) · [baspa.dev](https://baspa.dev)
