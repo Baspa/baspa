@@ -4,7 +4,7 @@ Full-stack developer from the Netherlands. I currently work at [BAS Parts & Tyre
 Filament packages.
 
 ### I like to work with 
-`Laravel` · `Livewire` · `Filament` · `React` · `Vue` · `NativePHP` · `TypeScript` · `Tailwind` . `Inertia`
+`Laravel` · `Livewire` · `Filament` · `React` · `Vue` · `NativePHP` · `TypeScript` · `Tailwind` . `Inertia` . `Python` . `AI` . `AWS` 
 
 ### Featured open source
 |     | Package | What it does |
